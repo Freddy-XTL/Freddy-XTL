@@ -13,7 +13,7 @@
 A developing software developer who takes the time to make the best out of the projects I develop and develop better into the new age of the 4th industrial revolution.
 
 🔭 &nbsp;I'm currently working on **a hospital system collaboration with my teammates**  
-🌱 &nbsp;I'm currently learning **JavaScript &amp; C#**  
+🌱 &nbsp;I'm currently learning **JavaScript &amp; React**  
 😄 &nbsp;Pronouns: **He/him**  
 ⚡ &nbsp;Fun fact: **Took me 2 days to find a misplaced semi-colon, 10/10 do not recommend.**
 
@@ -25,7 +25,6 @@ A developing software developer who takes the time to make the best out of the p
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
